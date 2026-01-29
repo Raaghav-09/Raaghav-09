@@ -36,28 +36,50 @@
 
 <!-- Coding Platforms Section with Logos and Links -->
 ## 🖥️ Coding Platforms:
-<div>
-<p align="center">
-  <a href="https://leetcode.com/u/_raaghav_09/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/_raaghav_09"><img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/peakyblinder3"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/raghavmahm785"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="125" alt="GeeksforGeeks" /></a>
-</p>
-<p align ="center">
-  <a href = "https://leetcode.com/u/_raaghav_09/">LeetCode</a> - <strong>Knight ♞ (1938)</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://codeforces.com/profile/_raaghav_09">Codeforces</a> - <strong>Specialist (1444)</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.codechef.com/users/peakyblinder3">CodeChef</a> - <strong>3★ (1748)</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.geeksforgeeks.org/profile/raghavmahm785">GeeksforGeeks</a>
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/u/_raaghav_09/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125" alt="LeetCode" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/_raaghav_09">
+          <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125" alt="Codeforces" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.codechef.com/users/peakyblinder3">
+          <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" alt="CodeChef" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/profile/raghavmahm785">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="125" alt="GeeksforGeeks" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong><a href="https://leetcode.com/u/_raaghav_09/">LeetCode</a></strong><br>
+        Knight ♞ (1938)
+      </td>
+      <td align="center">
+        <strong><a href="https://codeforces.com/profile/_raaghav_09">Codeforces</a></strong><br>
+        Specialist (1444)
+      </td>
+      <td align="center">
+        <strong><a href="https://www.codechef.com/users/peakyblinder3">CodeChef</a></strong><br>
+        3★ (1748)
+      </td>
+      <td align="center">
+        <strong><a href="https://www.geeksforgeeks.org/profile/raghavmahm785">GeeksforGeeks</a></strong><br>
+        Profile
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Tech Stack Section with Badges -->
