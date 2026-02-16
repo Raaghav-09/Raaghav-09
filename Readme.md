@@ -119,9 +119,9 @@
 <!-- GitHub Stats Section -->
 ## 🔥 My Stats:
 <!-- Snake Game Animation (GitHub Contribution Graph) -->
-<div align="center">
+<!--<div align="center">
   <img align= "center" src ="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> 
 
 <!-- Random Dev Quote Section -->
 ### ✍️ Dev Quote
