@@ -38,7 +38,6 @@ fun_fact:  admitted as the highest-ranked (opening rank) student in CSE at NIT R
 - 🚀 I build things end-to-end — **React / Node.js / MongoDB** on the web, **C++17** when it needs to be fast.
 - ⚡ **2000+** DSA/CP problems solved · **Global Rank 427** (Codeforces Div. 3 Round 1103) · **Global Rank 512** (LeetCode Weekly 504).
 - 🏆 Ranked in the **top 2% worldwide** at **Meta Hacker Cup**.
-- 🧑‍🏫 Mentored **30+ juniors** at the Association of Computer Engineers, NIT Raipur — their median Codeforces rating rose **~150 points** in a semester.
 - 💬 Ask me about **DSA, competitive programming, or the MERN stack**.
 
 ---
