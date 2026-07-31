@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Raaghav-09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=CSE+%40+NIT+Raipur+'27;MERN+stack+%2B+C%2B%2B+systems+work;Guardian+on+LeetCode+(top+1%25);2000%2B+DSA%2FCP+problems+solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=CSE+%40+NIT+Raipur+'27;Expert+on+Codeforces;MERN+stack+%2B+C%2B%2B+systems+work;Guardian+on+LeetCode+(top+1%25);2000%2B+DSA%2FCP+problems+solved" alt="Typing SVG" />
   </a>
 </p>
 
