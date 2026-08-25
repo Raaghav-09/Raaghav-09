@@ -206,7 +206,6 @@ fun_fact:  admitted as the highest-ranked (opening rank) student in CSE at NIT R
 
 | | |
 |---|---|
-| 🥇 | **Opening Rank** — admitted as the highest-ranked student in CSE, NIT Raipur (Batch of '27) |
 | 🌍 | **Top 2% worldwide** in **Meta Hacker Cup** |
 | 🚩 | **Global Rank 427** — Codeforces Round 1103 (Div. 3) |
 | 🎯 | **Global Rank 512** — LeetCode Weekly Contest 504 |
